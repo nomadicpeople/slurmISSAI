@@ -1,6 +1,12 @@
-# # The ISSAI Guidebook on Basics of Linux and Networking
+# Overview
 
-Most of the content provided below is adapted from the notes for [Linux Basics Course](https://github.com/kodekloudhub/linux-basics-course) hosted on KodeKloud. We refer you to their Github repository if you would like to explore the full version of the course.
+Slurm is an open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters. 
+Slurm requires no kernel modifications for its operation and is relatively self-contained. As a cluster workload manager, Slurm has three key functions. 
+- First, it allocates exclusive and/or non-exclusive access to resources (compute nodes) to users for some duration of time so they can perform work. 
+- Second, it provides a framework for starting, executing, and monitoring work (normally a parallel job) on the set of allocated nodes. 
+- Finally, it arbitrates contention for resources by managing a queue of pending work.
+
+
 
 ### How to use this guidebook?
 The compiled material represents the necessary package of knowledge required for an ISSAI researcher.  We recommend to go through the sections in the incremetal order, one by one.
