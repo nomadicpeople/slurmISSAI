@@ -1,4 +1,4 @@
-#### Architecture
+### Architecture
 
 As depicted in Figure 1, Slurm consists of a slurmd daemon running on each 
 compute node and a central slurmctld daemon running on a management node (with optional fail-over twin). 
